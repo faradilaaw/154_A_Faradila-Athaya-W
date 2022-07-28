@@ -1,0 +1,25 @@
+.logo{
+    width: 110%;
+    height: 80px;
+    float: left;
+}
+
+.logo > img{
+    height: 56px;
+}
+
+.back-to-top {
+  margin: 0;
+  position: fixed;
+  bottom: 80px;
+  right: 40px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid rgba(0,0,0,.18);
+  z-index: 100;
+  display: none;
+  text-decoration: none;
+}

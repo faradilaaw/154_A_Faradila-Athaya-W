@@ -1,0 +1,15 @@
+body {
+    width: auto;
+    height: fit-content;
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: auto;d
+}
+#judulvisimisi{
+    font-family: 'Muli', sans-serif;
+    font-size: 80px;
+}
+.isi{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
